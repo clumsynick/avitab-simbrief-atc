@@ -10,7 +10,7 @@ Fork von AviTab zur Integration von:
 
 ## 🗂️ Projekt Setup
 
-- [ ] Repository forken (`fpw/avitab`)
+- [X] Repository forken (`fpw/avitab`)
 - [ ] Lokale Umgebung einrichten (CMake, Compiler, SDL2, X-Plane SDK)
 - [ ] Build-Prozess prüfen (Plugin wird in X-Plane erkannt)
 - [ ] Debug-Build aktivieren
